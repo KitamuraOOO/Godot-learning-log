@@ -14,11 +14,35 @@ https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/01.project_set
 -ノードを追加するところでArea2Dノードがない
 →検索欄があるのでそこで検索して見つけることができた
 
+-クラス(ノード)はPascalCase、変数と関数はsnake_case、定数はALL_CAPSを使う
+
 ■疑問
 -ルートノードって何？
 →ノード（要素）の内、最上位に位置するノードのこと
+
+-PascalCaseって何？
+→単語の先頭をすべて大文字にしてつなげる書き方のこと
+単語と単語の区切りが分かりやすい
+プログラミング言語で クラス名 などに使われることが多い
+関連
+snake_case
+→単語を _ で区切る
+ALL_CAPS
+→文章をすべて大文字（大文字アルファベット）で表記する書き方
+
+■保留
+>C#: クラス、export変数、メソッドはPascalCaseを使用し、プライベートフィールドは _camelCase を使用し、
+>ローカル変数とパラメーターは camelCase を使用します(C# スタイルガイドを参照)。
+>シグナルを接続するときは、メソッド名を正確に入力してください。
+25/11/20時点で分からないけどめんどいからパス…
 
 ■気づき
 
 
 ■次回やること
+とりあえず眠いので中断
+https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/02.player_scene.html
+の「スプライトアニメーション」から再開したい
+
+
+
