@@ -1,15 +1,28 @@
 ＃2025-11-21 Godot学習日記
 
 ■今日やったこと
-
 -公式チュートリアルでの勉強
 https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/01.project_setup.html
 
+-画像データの取り入れ方
+フォルダ内にデータがあるが、ブラウザからではなくGodot左下のファイルツリーから持ってくる
+
+-playerシーンの作成
+終了
 
 ■疑問
+-前回からの続きが分からん
+Area2DノードしかなくPlayerノードが見当たらない
+→Area2D自体がPlayerノードという名前で同一のものなのか？
+これだと辻褄が行くと思われる
 
+-インスペクタ？
+→「今選んでいるオブジェクトの細かい設定をいじる場所」by ChatGPT
 
 ■保留
+func _ready():
+	screen_size = get_viewport_rect().size
+→get_viewport_rect().sizeの意味がよく分からない
 
 ■気づき
 
