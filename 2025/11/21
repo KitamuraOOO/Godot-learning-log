@@ -7,7 +7,7 @@ https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/01.project_set
 -画像データの取り入れ方
 フォルダ内にデータがあるが、ブラウザからではなくGodot左下のファイルツリーから持ってくる
 
--playerシーンの作成
+-playerシーンの作成～メインシーンまで
 終了
 
 -$ は get_node() の省略形です。
@@ -42,6 +42,13 @@ func _ready():
 →get_viewport_rect().sizeの意味がよく分からない
 
 ■気づき
+ところどころUnityと似ている部分がある
+コードについては分かりそうな部分と分からない部分がある
+理解はできないがこれはおいおいとしてもよさそう
 
 
 ■次回やること
+https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/06.heads_up_display.html
+ヘッドアップディスプレイから再開してUI部分を作っていく
+
+
