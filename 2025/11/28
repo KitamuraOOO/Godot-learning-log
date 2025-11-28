@@ -4,6 +4,10 @@
 -公式チュートリアルでの勉強
 https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/01.project_setup.html
 
+-tscnファイルからシーンを開くことができる
+
+-HUDまでを作成
+
 
 
 ■疑問
@@ -17,3 +21,5 @@ https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/01.project_set
 
 
 ■次回やること
+-仕上げをやっていく
+https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/07.finishing-up.html
