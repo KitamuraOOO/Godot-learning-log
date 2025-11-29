@@ -4,11 +4,38 @@
 -公式チュートリアルでの勉強
 https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/07.finishing-up.html
 
+-手間どったが無事完成までこぎつけられた
 
-
+-その後は公式マニュアルを読み、分からないところをchatGPTで調べる
 
 ■疑問
+-インスタンス？
+→『設計図をもとに作られた実体』
+クラス（Class）：設計図
+インスタンス（Instance）：その設計図から作った“実物”
+🛠 例：家の設計図
+設計図（クラス）を1枚作る
+その設計図から家を3軒建てる（インスタンスが3つ）
+というイメージ
 
+-オブジェクト指向とは？
+→「プログラムを“モノ（オブジェクト）”として考えて組み立てる方法」
+オブジェクトは データ（状態）と機能（動き）をセットにしたもの。
+オブジェクトは「自分のことは自分で管理する」という思想です。
+
+🧱 オブジェクト指向の3本柱
+①カプセル化（Encapsulation）
+データとそのデータを扱う動きをセットにして、
+1つのオブジェクトとしてまとめること。
+例：Playerが自分のHPや位置を自分で管理
+② 継承（Inheritance）
+あるオブジェクトの「性質」を引き継いで、
+似た性質を持つ別のオブジェクトを作れる仕組み。
+例：敵クラス→共通の動きをする
+③ 多態性（Polymorphism）
+同じ命令でも、オブジェクトごとに違う動きをできること。
+例：同じenemy.attack()というコードでも、
+スライムなら体当たり、魔法使いなら魔法攻撃をするといった違い
 
 ■保留
 
@@ -18,5 +45,6 @@ https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/07.finishing-u
 
 
 ■次回やること
--仕上げをやっていく
-https://docs.godotengine.org/ja/4.x/getting_started/first_2d_game/07.finishing-up.html
+-Make a Basic Top Down Character
+https://www.youtube.com/watch?v=QPeycNt29tY&list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa
+を見て実際に作成していく
