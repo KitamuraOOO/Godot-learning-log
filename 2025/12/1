@@ -4,8 +4,15 @@
 -Make a Basic Top Down Character
 https://www.youtube.com/watch?v=QPeycNt29tY&list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa
 を見て実際に作成していく
+その1から
+
+-バックグラウンド、プレイヤーの作成から基本的な動かし方までを学んだ
+
+-スクリプトをコリジョンにもアタッチしてしまいエラーに悩んだ
 
 ■疑問
+
+
 
 
 ■保留
@@ -16,3 +23,6 @@ https://www.youtube.com/watch?v=QPeycNt29tY&list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy
 
 
 ■次回やること
+Player Idle & Walk Animations // E02 // Make a 2D Action & Adventure RPG in Godot 4
+https://www.youtube.com/watch?v=rKQrp2U11Ag&list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa&index=2
+を進めていく
