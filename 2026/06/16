@@ -11,6 +11,10 @@ https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-
 新しいHeartbeastの素材データをインポートしたところまで
 上記動画の4:53のところまでやれた
 
+15;25時点
+ドットがぼやけるので設定を弄り
+Default Texture FilterをNearestに変更
+ドットがくっきりするようになった
 
 ■疑問
 ディレクトリ？リポジトリ？
